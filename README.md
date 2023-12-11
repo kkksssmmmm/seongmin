@@ -328,7 +328,7 @@ public Page<Post> findAllByTagName(String tagName, Pageable pageable) {
 <div markdown="1">
   
   - UserAgent 설정으로 해결
-        - [https://www.javacodeexamples.com/jsoup-set-user-agent-example/760](https://www.javacodeexamples.com/jsoup-set-user-agent-example/760)
+        - [https://www.javacodeexamples.com/jsoup-set-user-agent-example/760](https://github.com/2023-SMHRD-IS-CLOUD-1/NailArt/blob/edbb8220395d253fdc5f975621929905611ffb36/NailProject/src/main/webapp/WEB-INF/main.jsp#L95)
         - [http://www.useragentstring.com/](http://www.useragentstring.com/)
         
 </div>
